@@ -28,7 +28,7 @@ Este projeto tem como objetivo explorar o uso de interrupções e controle de LE
 
 ## Vídeo de Demonstração
 
-Para visualizar o funcionamento do projeto, assista ao vídeo de demonstração produzido, que mostra as funcionalidades e interações implementadas.(https://www.youtube.com/watch?v=4h_oNhxVbyM&t=7819s)
+[Para visualizar o funcionamento do projeto, assista ao vídeo de demonstração produzido, que mostra as funcionalidades e interações implementadas.](https://www.youtube.com/watch?v=4h_oNhxVbyM&t=7819s)
 
 ## Considerações Finais
 
